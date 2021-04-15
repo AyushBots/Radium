@@ -7,7 +7,7 @@
             <p class="title is-4 has-text-light	">Radium</p>
             <p class="subtitle is-6 has-text-light">
               <a
-                href="https://github.com/zibbp/radium"
+                href="https://github.com/cyberboyayush"
                 class="has-text-success"
                 target="_blank"
                 >Github</a
